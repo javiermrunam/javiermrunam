@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Muro</h1>
 <h3 align="center">A passionate backend developer and Data Science enthusiast from Mexico</h3>
 
-- 🔭 I’m currently working on **Nokia**
+- 🔭 I’m currently working at **Nokia**
 
 - 🌱 I’m currently learning **Data Analytics and Programming**
 
